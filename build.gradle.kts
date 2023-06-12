@@ -19,6 +19,11 @@ dependencies {
     implementation("com.github.javafaker:javafaker:1.0.2")
     implementation("org.projectlombok:lombok-utils:1.18.12")
     implementation("org.apache.commons:commons-lang3:3.12.0")
+    //implementation(project(mapOf("path" to ":")))
+    //implementation(project(mapOf("path" to ":")))
+    //  implementation(project(mapOf("path" to ":")))
+    //implementation(project(mapOf("path" to ":")))
+    //  implementation("user.java.io:user.java.io:2020.134.36653")
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
 
